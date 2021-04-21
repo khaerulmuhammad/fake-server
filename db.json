@@ -1,0 +1,92 @@
+{
+    "players" :  [
+        {
+          "username": "pevitapierce123",
+          "email": "samplepevita@gmail.com",
+          "experience": "111",
+          "lvl": "1"
+        },
+        {
+
+        "username": "beni123",
+        "email": "beni@gmail.com",
+        "experience": "111",
+        "lvl": "1"
+    },
+
+    {
+
+        "username": "jdnvkjsa123",
+        "email": "lkakka@gmail.com",
+        "experience": "111",
+        "lvl": "1"
+    },
+
+    {
+
+        "username": "dita123",
+        "email": "ditaa@gmail.com",
+        "experience": "111",
+        "lvl": "1"
+    },
+
+    {
+
+        "username": "jamal123",
+        "email": "jamal@gmail.com",
+        "experience": "111",
+        "lvl": "1"
+    },
+
+    {
+
+        "username": "siti123",
+        "email": "siti@gmail.com",
+        "experience": "111",
+        "lvl": "1"
+    },
+
+    {
+
+        "username": "nama123",
+        "email": "nama@gmail.com",
+        "experience": "332",
+        "lvl": "1"
+    },
+
+    {
+
+        "username": "tes123",
+        "email": "tes@gmail.com",
+        "experience": "221",
+        "lvl": "1"
+    },
+
+    
+    {
+
+        "username": "nams123",
+        "email": "nams@gmail.com",
+        "experience": "212",
+        "lvl": "1"
+    },
+
+    {
+
+        "username": "gitu123",
+        "email": "gitu@gmail.com",
+        "experience": "432",
+        "lvl": "999"
+    },
+    {
+
+        "username": "gitu123",
+        "email": "gitu@gmail.com",
+        "experience": "432",
+        "lvl": "999"
+    }
+
+  
+      
+      ]
+}
